@@ -45,3 +45,7 @@ msgstr "Возможные вставки:"
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "not specified"
 msgstr "не указано"
+
+#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
+msgid "Another test string"
+msgstr ""
