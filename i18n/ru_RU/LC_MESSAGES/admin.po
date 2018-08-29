@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Giftd CRM Admin\n"
 "POT-Creation-Date: 2018-06-27 00:28+0300\n"
-"PO-Revision-Date: 2018-08-29 16:41+0000\n"
+"PO-Revision-Date: 2018-08-30 18:00+0000\n"
 "Last-Translator: lehadnk <lehadnk@gmail.com>\n"
 "Language-Team: Russian <http://localhost/projects/test-project/master/ru/>\n"
 "Language: ru_RU\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Please Wait..."
-msgstr "Пожалуйста, подождите1..."
+msgstr "Пожалуйста, подождите..."
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Leave any field blank if you don't want to change default value."
@@ -44,4 +44,4 @@ msgstr "Плейсхолдеры:"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "not specified"
-msgstr "а здесь еще по другому - полный бред"
+msgstr "здесь иначе переведу"
