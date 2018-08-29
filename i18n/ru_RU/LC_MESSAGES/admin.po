@@ -39,13 +39,17 @@ msgid "Default Value:"
 msgstr "Значение по умолчанию:"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "New test string"
-msgstr ""
+msgid "Possible Placeholders:"
+msgstr "Ломаю перевод:"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "Possible Placeholders:"
-msgstr "Возможные вставки:"
+msgid "I'm adding the test string here"
+msgstr ""
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "not specified"
 msgstr "не указано"
+
+#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
+msgid "Another test string goes here"
+msgstr ""
