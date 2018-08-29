@@ -40,8 +40,8 @@ msgstr "Значение по умолчанию:"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Possible Placeholders:"
-msgstr "Возможные вставки:"
+msgstr ""
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "not specified"
-msgstr "не указано"
+msgstr ""
