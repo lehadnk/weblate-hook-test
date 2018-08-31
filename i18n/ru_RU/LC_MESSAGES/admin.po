@@ -44,5 +44,13 @@ msgid "not specified"
 msgstr "В мастере это будет переведено вот так"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
+msgid "test"
+msgstr ""
+
+#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Another test string"
-msgstr "Еще одна тестовая строка"
+msgstr "Еще1 одна тестовая строка"
+
+#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
+msgid "teeeeest"
+msgstr ""
