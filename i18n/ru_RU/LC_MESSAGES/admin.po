@@ -37,11 +37,15 @@ msgstr "Значение по умолчанию:"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Possible Placeholders:"
-msgstr "Плейсхолдеры:"
+msgstr "Не плейсхолдеры:"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "not specified"
 msgstr "В мастере это будет переведено вот так"
+
+#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
+msgid "added later"
+msgstr ""
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Another test string"
