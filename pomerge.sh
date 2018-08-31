@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Merging $1 into $2..."
+
 git checkout $1
 mkdir .pomerge_cache/
 
