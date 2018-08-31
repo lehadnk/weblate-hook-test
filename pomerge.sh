@@ -2,7 +2,15 @@
 
 git checkout $0
 mkdir .pomerge_cache/
-cp -R i18n .pomerge_cache/i18n
+
+for fn in `cat dotpo-tools-config`; do
+    cp $fn .pomerge_cache/$fn
+done
+
 git checkout $1
-php /Users/lehadnk/work/bitrewards/pomerge/merger.php ./i18n/ru_RU/LC_MESSAGES/admin.po .pomerge_cache/i18n/ru_RU/LC_MESSAGES/admin.po output.po
+
+for fn in `cat dotpo-tools-config`; do
+    php $DOTPO_MERGER_PATH/merger.php ./$fn .pomerge_cache/$fn ./$fn
+done
+
 rm -rf .pomerge_cache
