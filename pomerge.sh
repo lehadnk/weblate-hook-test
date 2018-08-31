@@ -1,15 +1,19 @@
 #!/bin/bash
 
-git checkout $0
+echo "Merging $1 into $2..."
+
+git checkout $1
 mkdir .pomerge_cache/
 
 for fn in `cat dotpo-tools-config`; do
-    cp $fn .pomerge_cache/$fn
+    mkdir -p `dirname ./.pomerge_cache/$fn`
+    cp ./$fn ./.pomerge_cache/$fn
 done
 
-git checkout $1
+git checkout $2
 
 for fn in `cat dotpo-tools-config`; do
+    echo "Merging $fn..."
     php $DOTPO_MERGER_PATH/merger.php ./$fn .pomerge_cache/$fn ./$fn
 done
 
