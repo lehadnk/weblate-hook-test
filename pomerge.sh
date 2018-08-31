@@ -1,13 +1,14 @@
 #!/bin/bash
 
-git checkout $0
+git checkout $1
 mkdir .pomerge_cache/
 
 for fn in `cat dotpo-tools-config`; do
-    cp $fn .pomerge_cache/$fn
+    mkdir -p `dirname ./.pomerge_cache/$fn`
+    cp ./$fn ./.pomerge_cache/$fn
 done
 
-git checkout $1
+git checkout $2
 
 for fn in `cat dotpo-tools-config`; do
     echo "Merging $fn..."
