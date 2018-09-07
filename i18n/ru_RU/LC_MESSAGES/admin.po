@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Giftd CRM Admin\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-27 00:28+0300\n"
-"PO-Revision-Date: 2018-09-07 08:25+0000\n"
+"PO-Revision-Date: 2018-09-07 08:32+0000\n"
 "Last-Translator: lehadnk <lehadnk@gmail.com>\n"
-"Language-Team: Russian <http://localhost/projects/test/master/ru/>\n"
+"Language-Team: Russian <http://localhost/projects/test/12345/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Poedit-Basepath: ../../../../..\n"
 "X-Poedit-KeywordsList: _;__;_n;__link\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: resources/assets/js/admin-app\n"ls
+"X-Poedit-SearchPath-0: resources/assets/js/admin-app\n"
 "X-Poedit-SearchPathExcluded-0: ../../../node_modules\n"
 "X-Poedit-SearchPathExcluded-1: ../../../docker\n"
 
@@ -25,7 +25,7 @@ msgstr "Перевод мастер бранча - 1"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Master branch - string 2"
-msgstr "Перевод бранча - 2"
+msgstr "Перевод мастер бранча - 2"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Master branch - string 3"
@@ -33,7 +33,7 @@ msgstr "Перевод мастер бранча - 3"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "12345 branch - string 1"
-msgstr ""
+msgstr "1"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Master branch - string 4"
@@ -41,4 +41,4 @@ msgstr "Перевод мастер бранча - 4"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "12345 branch - string 2"
-msgstr ""
+msgstr "12345 - строка 2"
