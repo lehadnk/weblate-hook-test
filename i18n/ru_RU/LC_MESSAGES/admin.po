@@ -15,7 +15,7 @@ msgstr ""
 "X-Poedit-Basepath: ../../../../..\n"
 "X-Poedit-KeywordsList: _;__;_n;__link\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: resources/assets/js/admin-app\n"
+"X-Poedit-SearchPath-0: resources/assets/js/admin-app\n"ls
 "X-Poedit-SearchPathExcluded-0: ../../../node_modules\n"
 "X-Poedit-SearchPathExcluded-1: ../../../docker\n"
 
@@ -25,12 +25,20 @@ msgstr "Перевод мастер бранча - 1"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Master branch - string 2"
-msgstr "Перевод мастер бранча - 2"
+msgstr "Перевод бранча - 2"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Master branch - string 3"
 msgstr "Перевод мастер бранча - 3"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
+msgid "12345 branch - string 1"
+msgstr ""
+
+#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
 msgid "Master branch - string 4"
 msgstr "Перевод мастер бранча - 4"
+
+#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
+msgid "12345 branch - string 2"
+msgstr ""
