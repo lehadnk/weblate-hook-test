@@ -20,41 +20,17 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-1: ../../../docker\n"
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "Please Wait..."
-msgstr "Пожалуйста, подождите1..."
+msgid "Master branch - string 1"
+msgstr ""
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "Leave any field blank if you don't want to change default value."
-msgstr "Если вы не хотите менять значение по умолчанию, оставьте поле пустым."
+msgid "Master branch - string 2"
+msgstr ""
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "Otherwise provide required value. You can insert special placeholders into your texts (they are listed in each setting)."
-msgstr "Иначе укажите необходимое значение. Вы можете подставить специальные команды в тексты (возможные вставки), которые указаны возле каждой настройки."
+msgid "Master branch - string 3"
+msgstr ""
 
 #: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "Default Value:"
-msgstr "Значение по умолчанию:"
-
-#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "Possible Placeholders:"
-msgstr "Не плейсхолдеры:"
-
-#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "not specified"
-msgstr "В мастере это будет переведено вот так"
-
-#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "added later"
-msgstr "добавлено позже"
-
-#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "Another test string"
-msgstr "Еще одна тестовая строка"
-
-#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "test"
-msgstr "тест"
-
-#: resources/assets/js/admin-app/components/customizations/PartnerCustomizations.vue:1
-msgid "teeeeest"
-msgstr "тееееест"
+msgid "Master branch - string 4"
+msgstr ""
